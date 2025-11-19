@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "bba459f23e2b94b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "160cb29672eae91c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5df8892c2f31f7c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Удаленный стенд.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Удаленный стенд"
+            }
+          },
+          {
+            "id": "308e55fe71bd41c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Удаленный стенд.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Удаленный стенд"
+            }
+          },
+          {
+            "id": "e77193a5d62f118f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Отладочная плата.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Отладочная плата"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59464d756828485f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c9672195e81ee74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8338f2cac70dffe0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "c45262fbdba6e818",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "11217534ede978cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f7ce133f99bbad94",
+    "type": "split",
+    "children": [
+      {
+        "id": "14de2f37c66e20d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf8e04db02453396",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Отладочная плата.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Отладочная плата"
+            }
+          },
+          {
+            "id": "273c62be95bca8d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Отладочная плата.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Отладочная плата"
+            }
+          },
+          {
+            "id": "6837dbab493925f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "ce315c82064c5929",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "8eb892a2b3d2c053",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Отладочная плата.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Отладочная плата"
+            }
+          },
+          {
+            "id": "0ee5940805125188",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Очередь заметок на повторение"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-spaced-repetition:Изучать карточки": false
+    }
+  },
+  "active": "e77193a5d62f118f",
+  "lastOpenFiles": [
+    "Ячейки стенда.md",
+    "Удаленный стенд.md",
+    "Отладочная плата.md",
+    "Одноплатный компьютер.md",
+    "Добро пожаловать.md"
+  ]
+}
