@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Брокер сообщений.md",
+                "file": "Алгоритм Robin-Round.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Брокер сообщений"
+              "title": "Алгоритм Robin-Round"
             }
           },
           {
@@ -205,9 +205,11 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "435e3192ccf64e90",
+  "active": "0ee5940805125188",
   "lastOpenFiles": [
     "Брокер сообщений.md",
+    "Алгоритм Robin-Round.md",
+    "Обменник.md",
     "Микроконтроллер.md",
     "Брокер сообщений",
     "MinIO.md",
