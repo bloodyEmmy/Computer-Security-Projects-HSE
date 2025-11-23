@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алгоритм Robin-Round.md",
+                "file": "MinIO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Алгоритм Robin-Round"
+              "title": "MinIO"
+            }
+          },
+          {
+            "id": "8b891b512ac7dfe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GPIO-пин.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GPIO-пин"
             }
           },
           {
@@ -31,7 +45,8 @@
               "title": "Граф"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,14 +220,15 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "0ee5940805125188",
+  "active": "8b891b512ac7dfe9",
   "lastOpenFiles": [
-    "Брокер сообщений.md",
+    "MinIO.md",
+    "GPIO-пин.md",
     "Алгоритм Robin-Round.md",
+    "Брокер сообщений.md",
     "Обменник.md",
     "Микроконтроллер.md",
     "Брокер сообщений",
-    "MinIO.md",
     "Типы микроконтроллеров по архитектуре.md",
     "Одноплатный компьютер.md",
     "Типы одноплатных компьютеров по архитектуре.md",
